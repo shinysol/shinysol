@@ -22,7 +22,7 @@
   - OpenCV / OCR(Tesseract) / PDF(Ghostscript, SharpPDF)
 - PHP & jquery with REST API
 - SQL(SQL Server, Mysql, PostgreSQL, MongoDB, Redis, AWS RDS)
-  - DBA(authority, scheduled backup), query(SP, View), performance improving
+  - designing, developing(ORM, raw-query, SP, View), DBA(authority, scheduled backup), performance improving
 - Cloud Architecture
   - AWS(EC2, S3, Cloudfront, Lightsail, Cloudwatch, SES, Amplify, RDS, Lambda, Workspaces)
   - KT Cloud(Server, Storage)
