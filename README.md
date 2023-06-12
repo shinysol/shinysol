@@ -1,16 +1,15 @@
-### Hi there 👋
+## Personality
+- Enthusiastic
+- Positive
 
-<!--
-**shinysol/shinysol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Strong
+- Problem Solving
+- Insight
 
-Here are some ideas to get you started:
+## Education
+- Math Education in SKKU(ba., Graduated)
+- Economy in KNOU(ba., Graduated)
+- Computer Science in KNOU(ba., Completed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- FE | [![Tech Stack](https://img.shields.io/badge/Next.js-v13-lightgray?style=flat-square&logo=Next.js&logoColor=#000000)](https://github.com/shinysol)
