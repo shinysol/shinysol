@@ -1,16 +1,29 @@
-## Personality
+## 😁 Personality
 - Enthusiastic
 - Positive
 
-## Strong
+## 🏋️‍♂️ Strength
 - Problem Solving
-- Insight
+- Insightful
+- Data Analyzing
+- Agile Learning / Quick Adaptation
 
-## Education
+## 🏫 Education
 - Math Education in SKKU(ba., Graduated)
 - Economy in KNOU(ba., Graduated)
 - Computer Science in KNOU(ba., Completed)
 
-## Experience
-- [![Tech Stack](https://img.shields.io/badge/Next.js--lightgray?style=flat-square&logo=Next.js&logoColor=#000000)](https://github.com/shinysol)
-- [![Tech Stack](https://img.shields.io/badge/Typescript--#3178C6?style=flat-square&logo=Typescript&logoColor=#3178C6)](https://github.com/shinysol)
+## 🚩 Experiences
+- Node.js(Next.js, Express.js, Sequelize)
+  - SCM/Customs clearance, PDF import/export
+  - Setting up System Interfaces (API, EDI, SFTP ...)
+- CSS(Tailwind CSS, styled-components)
+- C#.net(WPF, Winform)
+  - OpenCV / OCR(Tesseract) / PDF(Ghostscript, SharpPDF)
+- PHP & jquery with REST API
+- SQL(SQL Server, Mysql, PostgreSQL, MongoDB, Redis, AWS RDS)
+  - DBA(authority, scheduled backup), query(SP, View), performance improving
+- Cloud Architecture
+  - AWS(EC2, S3, Cloudfront, Lightsail, Cloudwatch, SES, Amplify, RDS, Lambda, Workspaces)
+  - KT Cloud(Server, Storage)
+- Windows Server / CentOS / Ubuntu
