@@ -25,6 +25,6 @@
 - SQL(SQL Server, Mysql, PostgreSQL, MongoDB, Redis, AWS RDS)
   - designing, developing(ORM, raw-query, SP, View), DBA(authority, scheduled backup), performance improving
 - Cloud Architecture
-  - AWS(EC2, S3, Cloudfront, Lightsail, Cloudwatch, SES, Amplify, RDS, Lambda, Workspaces)
+  - AWS(EC2, S3, RDS, Cloudfront, Lightsail, Cloudwatch, ALB, Route53, SQS, SNS, MSK, ECR, Amplify, RDS, Lambda, Workspaces)
   - KT Cloud(Server, Storage)
 - Windows Server / CentOS / Ubuntu
