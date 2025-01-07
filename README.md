@@ -14,7 +14,8 @@
 - Computer Science in KNOU(ba., Completed)
 
 ## 🚩 Experiences
-- Node.js(Next.js, Express.js, Sequelize)
+- Node.js(Nestjs, Next.js, Express.js, Sequelize)
+  - Advertisement / Digital goods
   - SCM/Customs clearance, PDF import/export
   - Setting up System Interfaces (API, EDI, SFTP ...)
 - CSS(Tailwind CSS, styled-components)
