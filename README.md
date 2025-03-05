@@ -30,7 +30,7 @@
 - SQL
   - SQL Server, Mysql, PostgreSQL, MongoDB, Redis
   - designing, developing(ORM, raw-query, SP, View), DBA(authority, scheduled backup), performance improving
-- MSA Architecture
+- SOA Architecture
   - Message-based(RabbitMQ, Apache Kafka)
 - Domain Experience
   - Advertisement / Digital goods
